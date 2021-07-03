@@ -1,0 +1,137 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url(./NHaasGroteskTXPro-65Md.ttf);
+}
+
+.firstdiv{
+
+    position: absolute;
+    width: 100%;
+    height: 10vh;
+    align-items: center;
+
+}
+
+.me-2{
+
+    position: relative;
+    width: 590px;
+    height: 38px;
+    margin: auto;
+    left: 15.7%;
+    font-size: large;
+    border: 2px solid rgb(221, 218, 218);
+    float: left;
+    top: 2.2vh;
+    border-radius: 5px 0px 0px 5px;
+
+    
+}
+
+#img{
+
+    position: relative;
+    width: 7.5%;
+    height: 15vh;
+    border-radius: 50%;
+    top: 4.8vh;
+    left: 19%;
+    float: left;
+}
+
+.seconddiv{
+
+    position: relative;
+    width: 100%;
+    height: 33vh;
+    background-color: rgb(250, 250, 250);
+    top: 65px;
+}
+
+.nav{
+
+    position: relative;
+    top: 80%;
+    right: 10%;
+}
+
+.div-3{
+
+    position: relative;
+    top: 67.3px;
+    width: 100%;
+    height: 270vh;
+    background-color: rgb(235, 235, 235);
+    padding: 0px;
+}
+
+.thirddiv{
+
+    position: relative;
+    top: 67.3px;
+    width: 100%;
+    height: 140vh;
+    background-color: rgb(235, 235, 235);
+    padding: 0px;  
+}
+    
+
+.video-1{
+
+    position: relative;
+    width: 799px;
+    height: 466px;
+    background-color: white;
+    margin: auto;
+    top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.video-t{
+
+    position: relative;
+    width: 250px;
+    height: 360px;
+    background-color: white;
+    top: 60px;
+    left: 105px;
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    margin-top: 30px;
+    
+}
+
+.go-this{
+
+    width: 100%;
+}
+
+.go-this-1{
+
+    width: 100%;
+
+}
+
+.video-2{
+
+    position: relative;
+    width: 300px;
+    height: 320px;
+    background-color: white;
+    top: 60px;
+    left: 105px;
+    margin-left: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+
